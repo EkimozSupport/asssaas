@@ -24,23 +24,23 @@ Music Assistant - @camilaowner
             [
                 [
                     InlineKeyboardButton(
-                      "✨CamilaAssistant", url="https://t.me/camilaowner",
+                      "✨owner", url="https://t.me/abhinasroy",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Help Group", url="https://t.me/camila_support"
+                        "💬 Help Group", url="https://t.me/DOSTI_GROUP_1234"
                     ),
                     InlineKeyboardButton(
-                        "stickers💖", url="https://t.me/stickersbag"
+                        "Channel💖", url="https://t.me/ABOUT_ABHINAS"
                     ),
                     InlineKeyboardButton(
-                        "✨GitHub✨", url="http://www.github.com/War-Legend/camilavcbot"
+                        "✨Father✨", url="https://t.me/abhinasroy"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/camillaMusicbot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/Group_25king_bot?startgroup=true"
                     ) 
                 ]
             ]
@@ -59,7 +59,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support Group  ", url="https://t.me/camila_support"
+                        "Support Group  ", url="https://t.me/DOSTI_GROUP_1234"
                     )
                 ],    
                 [    
@@ -105,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Need Help❓", url="https://t.me/camila_Support"
+                        "Need Help❓", url="https://t.me/DOSTI_GROUP_1234"
                     )
                 ]
             ]
