@@ -14,8 +14,8 @@ async def start_(client: Client, message: Message):
         f"""<b>Hi {message.from_user.first_name}!
 \nI can play music in your group's voice chat
 
-Music Assistant - @abhinasroy
-\nTo add in your group contact us at @DOSTI_GROUP_1234 or do /userbotjoin
+Music Assistant - @ellycarlmusicplayer
+\nTo add in your group contact us at @smailesi or do /userbotjoin
 \nHit /help list of available commands.
  </b>""",
       
@@ -24,23 +24,23 @@ Music Assistant - @abhinasroy
             [
                 [
                     InlineKeyboardButton(
-                      "✨owner", url="https://t.me/abhinasroy",
+                      "✨owner", url="https://t.me/kizilsancaksahibi",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Help Group", url="https://t.me/DOSTI_GROUP_1234"
+                        "💬 Help Group", url="https://t.me/smailesi"
                     ),
                     InlineKeyboardButton(
-                        "Channel💖", url="https://t.me/ABOUT_ABHINAS"
+                        "Channel💖", url="https://t.me/ucretlibotlar"
                     ),
                     InlineKeyboardButton(
-                        "✨Father✨", url="https://t.me/abhinasroy"
+                        "✨Father✨", url="https://t.me/adsizmlores"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/Group_25king_bot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/ellycarlmusicbot?startgroup=true"
                     ) 
                 ]
             ]
@@ -59,7 +59,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support Group  ", url="https://t.me/DOSTI_GROUP_1234"
+                        "Support Group  ", url="https://t.me/smailesi"
                     )
                 ],    
                 [    
@@ -105,7 +105,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Need Help❓", url="https://t.me/DOSTI_GROUP_1234"
+                        "Need Help❓", url="https://t.me/smailesi"
                     )
                 ]
             ]
